@@ -43,7 +43,7 @@ This project implements various maze-solving algorithms to find optimal paths th
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/lamaRimawi/Final_maze_code.git
+   git clone https://github.com/YOUR-USERNAME/Final_maze_code.git
    cd Final_maze_code
    ```
 
@@ -229,10 +229,9 @@ python -m pytest tests/test_algorithms.py::test_astar
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Author
+## Authors
 
-**Lama Rimawi**  
-GitHub: [@lamaRimawi](https://github.com/lamaRimawi)
+**Raghad, Intissar, Sedra, Layan**
 
 ## Acknowledgments
 
